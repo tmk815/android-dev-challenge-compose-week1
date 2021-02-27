@@ -30,8 +30,6 @@ import androidx.compose.ui.unit.dp
 import com.example.androiddevchallenge.model.Puppy
 import com.example.androiddevchallenge.model.puppies
 
-class DetailActivity : AppCompatActivity()
-
 @Composable
 fun PuppyDetailScreen(id: Int?) {
     val puppy = puppies[id!! - 1]
