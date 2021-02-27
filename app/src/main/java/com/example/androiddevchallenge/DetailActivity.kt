@@ -15,7 +15,6 @@
  */
 package com.example.androiddevchallenge
 
-import androidx.appcompat.app.AppCompatActivity
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.fillMaxWidth
